@@ -1,3 +1,2 @@
 # Horiseon: Search For Us
-
-##Description
+Horiseon is a company focused on increasing the traffic flow and visibily for buisnesses. Using search engine optimization, online reputation management, and social media marketing, Horisen helps buisnesses increase visibilty and finding the right customers whether they are traveling, shopping, or at home.
