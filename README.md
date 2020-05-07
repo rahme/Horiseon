@@ -17,6 +17,7 @@ This code is intended to be used as a website for Horiseon.
 Our client, Horiseon, came to us to help fix a their website. The initial code was created by Adam Abundis.
 
 We contributed:
+
     1. Replacing tags with semantic elements to follow HTML5
     2. Organized code to follow a logical structure
     3. Include "alt" attributes to all images to increase accesbility
