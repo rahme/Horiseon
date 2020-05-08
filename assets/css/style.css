@@ -19,7 +19,6 @@ p {
     font-size: 16px;
 }
 
-
 .float-left {
     float: left;
     margin-right: 25px;
@@ -30,17 +29,10 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
-
 
 /* CSS For Header and Nav Bar */
 
-#navigation{
+.navigation{
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -48,7 +40,7 @@ p {
     font-size: 20px;
 }
 
-#navigation ul li {
+.navigation ul li {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
@@ -73,7 +65,7 @@ p {
 
 /* CSS For Hero Image */
 
-#hero {
+.hero {
     background-image: url("../images/digital-marketing-meeting.jpg");
     display: inline-block;
     height: 800px;
@@ -85,6 +77,12 @@ p {
 
 
 /* CSS For Content Main Body*/
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
 
 .content-articles {
     margin-bottom: 20px;
@@ -113,7 +111,7 @@ p {
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
+    height: 940px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
@@ -123,7 +121,7 @@ p {
     color: #ffffff;
 }
 
-.benefits-sections h3 {
+.benefits-sections h2 {
     margin-bottom: 10px;
     text-align: center;
 }
